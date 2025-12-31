@@ -1,0 +1,801 @@
+Prompt Component,Component Description,Examples (50 per Component)
+1. Subject / Character,"The primary entity, person, or object that serves as the focus.","1. A stoic, elderly fisherman with a weathered face. (Photography)
+2. A cyberpunk geisha standing under neon rain. (Art Design)
+3. A ballet dancer mid-pirouette, silhouetted against a window. (Cinematography)
+4. A chrome-plated vintage motorcycle, highly polished. (Photography)
+5. A majestic, solitary wolf howling at a full moon. (Art Design)
+6. A young scientist in a lab coat, looking intently at a petri dish. (Cinematography)
+7. A still life of a single, perfectly ripe peach on a velvet cloth. (Photography)
+8. A fantastical, bioluminescent deep-sea creature. (Art Design)
+9. A high-fashion model wearing an avant-garde gown. (Photography)
+10. A detective in a trench coat, obscured by shadow. (Cinematography)
+11. A massive, ancient oak tree with gnarled branches. (Art Design)
+12. A pair of hands delicately holding a glowing orb. (Photography)
+13. A Roman centurion in full battle armor. (Art Design)
+14. A jazz musician playing a saxophone on a smoky stage. (Cinematography)
+15. A minimalist geometric sculpture made of polished marble. (Art Design)
+16. A child looking up at a sky full of hot air balloons. (Photography)
+17. A medieval knight on horseback, banner fluttering. (Art Design)
+18. A chef plating a gourmet dish with tweezers. (Photography)
+19. A spaceship docking at a futuristic space station. (Cinematography)
+20. A hyper-realistic portrait of a crying woman. (Art Design)
+21. A solitary lighthouse keeper staring out at a stormy sea. (Photography)
+22. A sentient, clockwork automaton with brass gears exposed. (Art Design)
+23. A grizzled cowboy riding a horse across a dusty plain. (Cinematography)
+24. A close-up of a chameleon blending into a vibrant orchid. (Photography)
+25. A mythological griffin perched on a mountain peak. (Art Design)
+26. A young couple sharing an umbrella in the rain. (Cinematography)
+27. A collection of antique glass bottles catching the sunlight. (Photography)
+28. A celestial being composed entirely of starlight and nebula dust. (Art Design)
+29. A professional athlete mid-jump, muscles tensed. (Photography)
+30. A spy exchanging a briefcase in a dark alley. (Cinematography)
+31. A crumbling, moss-covered stone statue of a forgotten god. (Art Design)
+32. A newborn baby's hand grasping a parent's finger. (Photography)
+33. A fearsome, winged dragon guarding a treasure hoard. (Art Design)
+34. A politician giving a passionate speech to a large crowd. (Cinematography)
+35. A perfectly symmetrical stack of pancakes with melting butter. (Photography)
+36. A futuristic combat robot with glowing red optics. (Art Design)
+37. A street performer juggling flaming torches at dusk. (Photography)
+38. A lone astronaut planting a flag on a barren moon. (Cinematography)
+39. A detailed illustration of a human heart, anatomically correct. (Art Design)
+40. A group of hikers silhouetted against a mountain sunrise. (Photography)
+41. A child's drawing come to life as a 3D model. (Art Design)
+42. A vintage steam train chugging through a snowy landscape. (Cinematography)
+43. A macro shot of a single drop of oil on water. (Photography)
+44. A stylized portrait of a historical figure, like Cleopatra. (Art Design)
+45. A barista pouring latte art into a ceramic mug. (Photography)
+46. A ghostly figure floating above a bed in a dark room. (Cinematography)
+47. A complex, interconnected root system of a mangrove tree. (Art Design)
+48. A close-up of a musician's hands on a piano keyboard. (Photography)
+49. A mythical phoenix rising from a bed of ashes. (Art Design)
+50. A drone view of a solitary surfer catching a large wave. (Cinematography)"
+2. Action / Movement,The specific behavior or physical motion performed.,"1. Slow-motion capture of a splash of water. (Photography)
+2. Dynamic pose of a superhero landing. (Art Design)
+3. Tracking shot of a car speeding down a wet street. (Cinematography)
+4. Shutter drag effect on a moving train. (Photography)
+5. Energetic brushstrokes depicting a swirling vortex. (Art Design)
+6. Whip pan transition between two characters. (Cinematography)
+7. Freezing the motion of a hummingbird mid-flight. (Photography)
+8. Implied motion through speed lines and distortion. (Art Design)
+9. Steadicam walk-and-talk through a crowded market. (Cinematography)
+10. Long exposure of star trails across the night sky. (Photography)
+11. Symmetrical explosion of colored powder. (Art Design)
+12. Reverse zoom revealing the vastness of the landscape. (Cinematography)
+13. Bokeh effect on a figure walking away in the rain. (Photography)
+14. Figurative dance with flowing, ethereal fabric. (Art Design)
+15. Handheld camera shake to convey panic. (Cinematography)
+16. High-speed photography of a bullet piercing an apple. (Photography)
+17. Gestural drawing style emphasizing rapid movement. (Art Design)
+18. Dolly zoom on a character realizing a shocking truth. (Cinematography)
+19. Pivoting from a close-up to a wide shot. (Cinematography)
+20. A figure levitating with subtle, upward drift. (Art Design)
+21. Time-slice photography capturing a moment from multiple angles. (Photography)
+22. Liquefied melting effect on a solid object. (Art Design)
+23. Rack focus from a foreground object to a background character. (Cinematography)
+24. Light painting with a long exposure and moving light source. (Photography)
+25. Deconstructed form suggesting internal collapse or explosion. (Art Design)
+26. Vertigo effect (dolly zoom) on a character looking down a stairwell. (Cinematography)
+27. Panning shot to keep a cyclist in sharp focus against a blurred background. (Photography)
+28. Abstract flow of liquid metal reforming into a new shape. (Art Design)
+29. Jib shot rising smoothly to reveal a hidden landscape. (Cinematography)
+30. Burst mode sequence of a gymnast completing a flip. (Photography)
+31. Morphing transition between two completely different objects. (Art Design)
+32. Slow-motion bullet time effect circling a frozen action. (Cinematography)
+33. Splash photography of a fruit dropping into water. (Photography)
+34. Kinetic sculpture with visible, intricate moving parts. (Art Design)
+35. POV shot simulating the character running through a forest. (Cinematography)
+36. Hyperlapse of a busy street over a 24-hour period. (Photography)
+37. Shattering glass effect with crystalline fragments flying outward. (Art Design)
+38. Crane shot descending into a crowd of people. (Cinematography)
+39. Focus stacking to achieve infinite depth of field in a macro shot. (Photography)
+40. Tessellation of a figure into repeating geometric patterns. (Art Design)
+41. Reverse motion of a collapsing building reassembling itself. (Cinematography)
+42. Ghosting effect from a slight camera movement during a long exposure. (Photography)
+43. Glitch art effect, digital distortion of a clean image. (Art Design)
+44. Handheld, shaky camera over the shoulder of a running person. (Cinematography)
+45. Stroboscopic effect capturing multiple positions of a dancer. (Photography)
+46. Fluid dynamics simulation of smoke and fire interacting. (Art Design)
+47. Arc shot slowly circling a group of people in conversation. (Cinematography)
+48. Tilt-shift effect making a real-world scene look like a miniature model. (Photography)
+49. Dissolving effect where the subject turns into sand or dust. (Art Design)
+50. Zoom-in to an extreme close-up of a character's eye, then zoom-out to a wide shot. (Cinematography)"
+3. Environment / Setting,"The location, background, or context.","1. A desolate, fog-shrouded moor at dawn. (Photography)
+2. A vibrant, bustling Tokyo street at night. (Cinematography)
+3. An ornate, abandoned Baroque library. (Art Design)
+4. A sterile, minimalist white gallery space. (Photography)
+5. The interior of a deep-sea submersible, lit by instruments. (Cinematography)
+6. A dense, primeval forest with colossal, glowing flora. (Art Design)
+7. A sun-drenched, dusty American Southwest desert highway. (Photography)
+8. A futuristic, vertically-stacked megacity with flying vehicles. (Art Design)
+9. A smoky, dimly-lit 1940s film noir office. (Cinematography)
+10. A serene Japanese Zen garden covered in fresh snow. (Photography)
+11. The surface of a distant, alien planet with twin moons. (Art Design)
+12. A chaotic, high-energy concert stage with strobe lights. (Cinematography)
+13. A rustic, weathered wooden cabin interior with a fireplace. (Photography)
+14. A fantastical underwater city made of coral and glass. (Art Design)
+15. A grand, empty ballroom with peeling wallpaper. (Cinematography)
+16. A macro shot of dew drops on a spider's web. (Photography)
+17. A post-apocalyptic cityscape overgrown with vines. (Art Design)
+18. A high-altitude view from a skyscraper window during a thunderstorm. (Cinematography)
+19. A medieval market square during a busy festival. (Art Design)
+20. A brightly lit, modern kitchen with stainless steel appliances. (Photography)
+21. A vast, salt flat desert reflecting the sky like a mirror. (Photography)
+22. The interior of a massive, derelict spaceship hangar. (Art Design)
+23. A cramped, neon-lit Hong Kong back alley. (Cinematography)
+24. A field of sunflowers stretching to the horizon under a clear sky. (Photography)
+25. A floating island in the sky, anchored by waterfalls. (Art Design)
+26. A dimly lit, crowded speakeasy with velvet curtains. (Cinematography)
+27. A close-up of a cracked, dry earth texture. (Photography)
+28. A colossal, impossible structure defying gravity. (Art Design)
+29. A war-torn trench line during a heavy rainstorm. (Cinematography)
+30. A minimalist Scandinavian living room with natural wood and light. (Photography)
+31. A crystalline cave illuminated by glowing minerals. (Art Design)
+32. A bustling train station during rush hour, seen from above. (Cinematography)
+33. A secluded beach cove with black volcanic sand. (Photography)
+34. A surreal landscape where the sky is made of water. (Art Design)
+35. A dark, claustrophobic submarine corridor. (Cinematography)
+36. A high-key product shot on a seamless white background. (Photography)
+37. A colossal treehouse city built into the canopy of a giant redwood. (Art Design)
+38. A long, empty corridor in a government building. (Cinematography)
+39. A vibrant coral reef teeming with exotic fish. (Photography)
+40. A landscape composed entirely of abstract geometric shapes. (Art Design)
+41. A foggy San Francisco street with cable cars. (Cinematography)
+42. A vintage diner interior with red vinyl booths and chrome. (Photography)
+43. A medieval castle courtyard under siege. (Art Design)
+44. A wide shot of a massive army marching across a snowy field. (Cinematography)
+45. A macro view of a forest floor covered in moss and mushrooms. (Photography)
+46. A dreamlike landscape with floating clocks and melting objects. (Art Design)
+47. A crowded, smoky pool hall with green felt tables. (Cinematography)
+48. A derelict amusement park Ferris wheel against a stormy sky. (Photography)
+49. A subterranean city carved into the side of a canyon. (Art Design)
+50. A close-up of a campfire crackling in a dark forest. (Cinematography)"
+4. Medium / Art Style,The artistic format or visual identity.,"1. Ansel Adams style black and white landscape photography.
+2. Ghibli inspired hand-drawn animation style.
+3. Neo-Noir cinematic aesthetic.
+4. Hyper-realistic digital painting.
+5. Polaroid instant film aesthetic.
+6. Ukiyo-e woodblock print style.
+7. Cinematic film grain, 35mm.
+8. Art Deco geometric design.
+9. Vaporwave retro-futurism aesthetic.
+10. Oil painting on canvas, impasto technique.
+11. Documentary photography style, photojournalism.
+12. Low-poly 3D rendering.
+13. Film Noir lighting and composition.
+14. Ink wash painting (Sumi-e).
+15. Daguerreotype early photographic process.
+16. Brutalist architecture design.
+17. Stop-motion claymation style.
+18. Pop Art with Ben-Day dots.
+19. Tilt-shift miniature effect photography.
+20. Möbius strip impossible geometry art.
+21. Cyberpunk aesthetic with high contrast and neon.
+22. Pencil sketch with cross-hatching and deep shadows.
+23. Wes Anderson film aesthetic, symmetrical and pastel.
+24. Infrared photography, surreal white foliage.
+25. Pointillism painting technique, small distinct dots.
+26. Steampunk aesthetic, brass, gears, and steam.
+27. Glitch Art digital distortion and color separation.
+28. Matte painting for a vast, detailed background.
+29. Macro photography with extreme detail.
+30. Watercolor painting on textured paper.
+31. 8-bit pixel art style.
+32. Minimalist design, clean lines, and negative space.
+33. Gothic architecture and dark romanticism.
+34. Disposable camera flash photography look.
+35. Abstract Expressionism with thick, gestural paint.
+36. Super 8 film aesthetic, faded colors and light leaks.
+37. Photorealistic 3D render.
+38. Manga/Anime style, sharp lines and vibrant colors.
+39. Double exposure photography effect.
+40. Mosaic art style, composed of small colored tiles.
+41. Surrealism in the style of Salvador Dalí.
+42. Cinéma vérité documentary style, raw and unpolished.
+43. Collage art using cut-out paper and mixed media.
+44. HDR (High Dynamic Range) photography, highly detailed shadows and highlights.
+45. Concept art for a video game environment.
+46. Neo-Classical sculpture style.
+47. Hand-drawn comic book style, heavy inking.
+48. Fauvism with wild, arbitrary colors.
+49. Street photography style, candid and spontaneous.
+50. Vector illustration with flat colors and sharp edges."
+5. Lighting / Lighting Style,"The illumination quality, source, and tone.","1. Rembrandt lighting for a dramatic portrait. (Photography)
+2. High-key uniform, shadowless lighting. (Cinematography)
+3. Volumetric light rays streaming through a window. (Art Design)
+4. Golden Hour warm, soft directional light. (Photography)
+5. Backlighting creating a strong, defined silhouette. (Cinematography)
+6. Neon purple and cyan rim lighting. (Art Design)
+7. Softbox studio lighting setup. (Photography)
+8. Practical lighting from a single desk lamp. (Cinematography)
+9. God rays piercing a dense forest canopy. (Art Design)
+10. Split lighting dividing the face into light and shadow. (Photography)
+11. Under-lighting from a campfire, creating a spooky effect. (Cinematography)
+12. Caustic light patterns reflecting off water. (Art Design)
+13. Ring light catchlight in the subject's eyes. (Photography)
+14. Three-point lighting with a strong kicker light. (Cinematography)
+15. Ambient occlusion for realistic shadow detail. (Art Design)
+16. Hard, midday sun with sharp, defined shadows. (Photography)
+17. Strobe light effect, freezing motion in bursts. (Cinematography)
+18. Subsurface scattering on skin and translucent materials. (Art Design)
+19. Cinematic lighting with blue and orange contrast. (Cinematography)
+20. Natural light only, overcast day. (Photography)
+21. Butterfly lighting (Paramount lighting) for a glamorous portrait. (Photography)
+22. Chiaroscuro lighting, extreme contrast between light and dark. (Art Design)
+23. Edge lighting (rim light) to separate the subject from the background. (Cinematography)
+24. Fluorescent office lighting, cold and sterile. (Photography)
+25. Bioluminescent glow from organic sources. (Art Design)
+26. Motivated lighting, appearing to come from a window. (Cinematography)
+27. Long exposure light painting with LEDs. (Photography)
+28. Global illumination for a soft, natural look. (Art Design)
+29. Silhouette lighting, subject completely dark against a bright background. (Cinematography)
+30. Flash photography with a harsh, direct light. (Photography)
+31. Ray tracing for accurate reflections and shadows. (Art Design)
+32. Low-key lighting with deep shadows and high contrast. (Cinematography)
+33. Golden hour light reflecting off a glass building. (Photography)
+34. Cyberpunk neon lighting with high saturation. (Art Design)
+35. Dramatic side lighting to emphasize texture. (Photography)
+36. Soft, diffused light from a large window. (Cinematography)
+37. Specular highlights on a metallic surface. (Art Design)
+38. Moonlight filtering through a dense forest. (Photography)
+39. High-contrast lighting with sharp, black shadows. (Cinematography)
+40. Warm, amber lighting from a vintage Edison bulb. (Photography)
+41. Cool, blue lighting from a computer screen. (Art Design)
+42. Dramatic top lighting, creating deep eye shadows. (Cinematography)
+43. Soft, pastel lighting for a dreamlike effect. (Photography)
+44. Vibrant, multi-colored stage lighting. (Cinematography)
+45. Natural, dappled light through tree leaves. (Photography)
+46. Harsh, industrial lighting in a warehouse. (Art Design)
+47. Soft, romantic candlelight. (Cinematography)
+48. Bright, clinical hospital lighting. (Photography)
+49. Ethereal, glowing light from a magical source. (Art Design)
+50. Dramatic, flickering light from a fireplace. (Cinematography)"
+6. Composition / Framing,The arrangement of visual elements and camera angle.,"1. Rule of thirds with the subject off-center. (Photography)
+2. Low-angle shot looking up at a towering giant. (Cinematography)
+3. Symmetrical composition with a central focal point. (Art Design)
+4. Dutch angle to convey disorientation and unease. (Cinematography)
+5. Extreme close-up on a character's eye. (Photography)
+6. Bird's-eye view of a complex maze. (Art Design)
+7. Leading lines drawing the eye toward the horizon. (Photography)
+8. Framing the subject within a doorway or window. (Cinematography)
+9. Negative space emphasizing a solitary figure. (Art Design)
+10. Golden spiral composition for natural balance. (Photography)
+11. Over-the-shoulder shot during a conversation. (Cinematography)
+12. Worm's-eye view from the ground looking up. (Photography)
+13. Flat lay composition of objects on a table. (Art Design)
+14. Wide shot showing the subject in a vast landscape. (Cinematography)
+15. Medium shot from the waist up. (Photography)
+16. Close-up focusing on facial expressions. (Cinematography)
+17. Extreme wide shot (establishing shot) of a city. (Cinematography)
+18. Point-of-view (POV) shot from the subject's perspective. (Cinematography)
+19. Two-shot featuring two characters in the frame. (Cinematography)
+20. Group shot with multiple subjects. (Photography)
+21. Symmetrical architecture shot with a central axis. (Photography)
+22. Diagonal composition to create a sense of movement. (Art Design)
+23. Circular framing using a lens or physical object. (Photography)
+24. Layered composition with foreground, midground, and background. (Cinematography)
+25. Minimalist composition with a single focal point. (Art Design)
+26. Dynamic composition with subjects moving toward the camera. (Cinematography)
+27. Static composition with a sense of stillness. (Photography)
+28. Balanced composition with equal weight on both sides. (Art Design)
+29. Unbalanced composition to create tension. (Cinematography)
+30. Framing with natural elements like tree branches. (Photography)
+31. Geometric composition using shapes and lines. (Art Design)
+32. Abstract composition focusing on color and form. (Art Design)
+33. Macro composition focusing on tiny details. (Photography)
+34. Panoramic shot with a wide aspect ratio. (Photography)
+35. Vertical composition for a sense of height. (Photography)
+36. Horizontal composition for a sense of stability. (Photography)
+37. Deep focus with everything in the frame sharp. (Cinematography)
+38. Shallow depth of field with a blurred background. (Photography)
+39. Rack focus from one subject to another. (Cinematography)
+40. Tracking shot following a moving subject. (Cinematography)
+41. Panning shot following a subject horizontally. (Photography)
+42. Tilting shot moving the camera up or down. (Cinematography)
+43. Zooming in or out to change the framing. (Cinematography)
+44. Dolly shot moving the camera toward or away from the subject. (Cinematography)
+45. Crane shot moving the camera vertically. (Cinematography)
+46. Handheld shot with a sense of realism. (Cinematography)
+47. Steadicam shot for smooth movement. (Cinematography)
+48. Drone shot from a high altitude. (Photography)
+49. Underwater shot with a unique perspective. (Photography)
+50. Split-screen composition with two different scenes. (Cinematography)"
+7. Camera / Lens,Specific technical camera settings and lens types.,"1. 85mm f/1.8 prime lens for shallow depth of field. (Photography)
+2. Anamorphic lens with characteristic blue flares. (Cinematography)
+3. Macro lens capturing microscopic details of an insect. (Photography)
+4. Wide-angle 14mm lens for architectural distortion. (Photography)
+5. Fisheye lens for a 180-degree distorted view. (Art Design)
+6. 35mm film stock with natural grain. (Cinematography)
+7. GoPro POV wide-angle action shot. (Cinematography)
+8. Tilt-shift lens for miniature effect. (Photography)
+9. Telephoto 400mm lens for compressed perspective. (Photography)
+10. Handheld shaky cam for documentary realism. (Cinematography)
+11. 50mm 'nifty fifty' lens for a natural perspective. (Photography)
+12. 24-70mm zoom lens for versatility. (Photography)
+13. 70-200mm telephoto lens for sports and wildlife. (Photography)
+14. 100mm macro lens for extreme close-ups. (Photography)
+15. Vintage Leica lens with soft rendering. (Photography)
+16. Cinema prime lenses for high-end production. (Cinematography)
+17. Anamorphic 2x squeeze for a cinematic look. (Cinematography)
+18. Spherical lenses for a standard look. (Cinematography)
+19. Fast f/1.2 lens for low-light performance. (Photography)
+20. Slow f/11 aperture for deep depth of field. (Photography)
+21. Polarizing filter to reduce reflections. (Photography)
+22. ND filter for long exposures in daylight. (Photography)
+23. Mist filter for a soft, glowing effect. (Cinematography)
+24. Infrared camera for surreal landscapes. (Photography)
+25. Medium format camera for high resolution. (Photography)
+26. Large format camera for ultimate detail. (Photography)
+27. Pinhole camera for a lo-fi aesthetic. (Photography)
+28. Disposable camera for a nostalgic look. (Photography)
+29. Polaroid camera for instant results. (Photography)
+30. Super 8 camera for a vintage film look. (Cinematography)
+31. 16mm film camera for an indie aesthetic. (Cinematography)
+32. 65mm IMAX camera for epic scale. (Cinematography)
+33. Digital sensor with high dynamic range. (Cinematography)
+34. Mirrorless camera for a compact setup. (Photography)
+35. DSLR camera for a traditional workflow. (Photography)
+36. Smartphone camera for a casual look. (Photography)
+37. Action camera for extreme sports. (Cinematography)
+38. 360-degree camera for immersive content. (Photography)
+39. Thermal camera for heat signatures. (Art Design)
+40. Night vision camera for low-light scenes. (Cinematography)
+41. High-speed camera for slow-motion. (Cinematography)
+42. Stereoscopic camera for 3D. (Cinematography)
+43. Borescope lens for internal views. (Photography)
+44. Periscope lens for unique angles. (Cinematography)
+45. Split-diopter lens for deep focus. (Cinematography)
+46. Lens baby for creative blur. (Photography)
+47. Petzval lens for swirly bokeh. (Photography)
+48. Helios 44-2 lens for vintage character. (Photography)
+49. Canon L-series lens for professional quality. (Photography)
+50. Zeiss Otus lens for ultimate sharpness. (Photography)"
+8. Material / Texture,The physical surface quality of objects.,"1. Iridescent mother-of-pearl finish. (Art Design)
+2. Weathered, oxidized copper with green patina. (Photography)
+3. Translucent, glowing frosted glass. (Art Design)
+4. Rough, hand-hewn granite stone. (Photography)
+5. Liquid mercury with high reflectivity. (Art Design)
+6. Soft, plush mohair fabric. (Photography)
+7. Rusty, corrugated iron sheets. (Photography)
+8. Polished obsidian with sharp edges. (Art Design)
+9. Porous, volcanic basalt rock. (Photography)
+10. Bioluminescent organic tissue. (Art Design)
+11. Smooth, polished marble with intricate veining. (Photography)
+12. Coarse, woven burlap fabric. (Photography)
+13. Sleek, brushed aluminum surface. (Art Design)
+14. Soft, supple leather with a fine grain. (Photography)
+15. Brittle, cracked ceramic glaze. (Art Design)
+16. Velvety, deep-pile carpet. (Photography)
+17. Transparent, crystalline ice. (Photography)
+18. Fibrous, handmade paper. (Art Design)
+19. Glossy, high-shine plastic. (Art Design)
+20. Matte, non-reflective rubber. (Art Design)
+21. Porous, dried sponge texture. (Photography)
+22. Sticky, viscous honey. (Photography)
+23. Gritty, coarse sand. (Photography)
+24. Smooth, liquid silk fabric. (Photography)
+25. Rough, bark-covered wood. (Photography)
+26. Polished, reflective chrome. (Art Design)
+27. Dull, oxidized lead. (Art Design)
+28. Translucent, waxy skin. (Art Design)
+29. Hard, faceted diamond. (Art Design)
+30. Soft, fluffy cotton. (Photography)
+31. Sharp, jagged glass shards. (Photography)
+32. Smooth, rounded river stones. (Photography)
+33. Cracked, parched earth. (Photography)
+34. Slimy, wet moss. (Photography)
+35. Dry, brittle autumn leaves. (Photography)
+36. Soft, powdery snow. (Photography)
+37. Hard, cold steel. (Art Design)
+38. Warm, glowing embers. (Photography)
+39. Cold, dark obsidian. (Art Design)
+40. Soft, ethereal smoke. (Art Design)
+41. Dense, heavy fog. (Photography)
+42. Light, airy clouds. (Photography)
+43. Liquid, flowing lava. (Art Design)
+44. Solid, frozen tundra. (Photography)
+45. Soft, delicate lace. (Photography)
+46. Hard, durable denim. (Photography)
+47. Smooth, creamy chocolate. (Photography)
+48. Rough, unpolished gold. (Art Design)
+49. Sleek, modern carbon fiber. (Art Design)
+50. Ancient, weathered parchment. (Art Design)"
+9. Color / Palette,The chromatic scheme or color-grading.,"1. Teal and Orange cinematic color grading.
+2. Monochromatic with a single splash of red.
+3. Pastel palette with soft, desaturated colors.
+4. High contrast black and white.
+5. Analog film color shift, warm tones.
+6. Vibrant, saturated primary colors.
+7. Muted, earthy tones (browns, greens, grays).
+8. Split toning with blue shadows and yellow highlights.
+9. Cyberpunk neon palette (pink, blue, purple).
+10. Desaturated look, almost grayscale.
+11. Complementary colors (blue and orange).
+12. Analogous colors (red, orange, yellow).
+13. Triadic colors (red, blue, yellow).
+14. Monochromatic shades of blue.
+15. Warm color palette (reds, oranges, yellows).
+16. Cool color palette (blues, greens, purples).
+17. Neutral color palette (beiges, grays, whites).
+18. High-key color palette (bright and airy).
+19. Low-key color palette (dark and moody).
+20. Sepia-toned for a vintage look.
+21. Duo-tone with two contrasting colors.
+22. Tri-tone with three distinct colors.
+23. Rainbow palette with all colors of the spectrum.
+24. Metallic color palette (gold, silver, bronze).
+25. Jewel-toned palette (emerald, ruby, sapphire).
+26. Earth-toned palette (terracotta, olive, ochre).
+27. Neon-toned palette (electric blue, lime green).
+28. Faded color palette for a nostalgic look.
+29. Vibrant color palette for an energetic look.
+30. Muted color palette for a sophisticated look.
+31. Dark color palette for a mysterious look.
+32. Light color palette for a clean look.
+33. Natural color palette for a realistic look.
+34. Artificial color palette for a surreal look.
+35. High-saturation color palette.
+36. Low-saturation color palette.
+37. Warm highlights and cool shadows.
+38. Cool highlights and warm shadows.
+39. Vibrant red and deep black.
+40. Soft pink and light gray.
+41. Electric yellow and dark purple.
+42. Forest green and earthy brown.
+43. Sky blue and cloud white.
+44. Sunset orange and deep purple.
+45. Ocean blue and sandy beige.
+46. Midnight blue and silver.
+47. Emerald green and gold.
+48. Ruby red and black.
+49. Sapphire blue and white.
+50. Amethyst purple and gray."
+10. Mood / Atmosphere,The emotional tone or feeling of the scene.,"1. Melancholic and somber.
+2. Ethereal and dreamlike.
+3. Tense and suspenseful.
+4. Warm and nostalgic.
+5. Cold and clinical.
+6. Energetic and vibrant.
+7. Mysterious and obscured.
+8. Haunting and desolate.
+9. Whimsical and playful.
+10. Sleek and futuristic.
+11. Intimate and personal.
+12. Epic and grand.
+13. Claustrophobic and confined.
+14. Serene and peaceful.
+15. Chaotic and energetic.
+16. Lonely and isolated.
+17. Romantic and soft.
+18. Aggressive and powerful.
+19. Quiet and still.
+20. Loud and vibrant.
+21. Dark and macabre.
+22. Light and airy.
+23. Surreal and bizarre.
+24. Realistic and grounded.
+25. Nostalgic and faded.
+26. Futuristic and clean.
+27. Ancient and weathered.
+28. Modern and sleek.
+29. Rustic and natural.
+30. Industrial and cold.
+31. Magical and enchanting.
+32. Terrifying and horrific.
+33. Hopeful and bright.
+34. Desperate and dark.
+35. Calm and soothing.
+36. Exciting and fast-paced.
+37. Boring and mundane.
+38. Interesting and unique.
+39. Common and familiar.
+40. Rare and exotic.
+41. Simple and clean.
+42. Complex and detailed.
+43. Beautiful and elegant.
+44. Ugly and distorted.
+45. Perfect and flawless.
+46. Imperfect and flawed.
+47. Natural and organic.
+48. Artificial and synthetic.
+49. Human and emotional.
+50. Mechanical and cold."
+11. Time / Time of Day,The temporal setting influencing light.,"1. Golden Hour at sunset.
+2. Blue Hour just after sunset.
+3. Midday sun, harsh and bright.
+4. Deep night, lit only by streetlights.
+5. Early morning fog and soft light.
+6. A 1950s aesthetic, vintage cars and fashion.
+7. A futuristic setting, 22nd century.
+8. A timeless, mythological era.
+9. A flash photo from the 1990s.
+10. Twilight, the moment between day and night.
+11. Dawn, the first light of day.
+12. Sunrise, the sun appearing over the horizon.
+13. Morning, bright and fresh light.
+14. Noon, the sun directly overhead.
+15. Afternoon, warm and directional light.
+16. Sunset, the sun disappearing below the horizon.
+17. Dusk, the fading light of day.
+18. Night, dark and mysterious.
+19. Midnight, the middle of the night.
+20. Springtime, fresh and green.
+21. Summertime, bright and hot.
+22. Autumn, warm and colorful.
+23. Wintertime, cold and white.
+24. A rainy day, soft and diffused light.
+25. A stormy day, dark and dramatic light.
+26. A snowy day, bright and clean light.
+27. A foggy day, soft and obscured light.
+28. A windy day, movement and energy.
+29. A calm day, stillness and peace.
+30. A busy day, chaos and energy.
+31. A quiet day, silence and peace.
+32. A long time ago, ancient history.
+33. A short time ago, recent history.
+34. Right now, the present moment.
+35. In the future, science fiction.
+36. A specific year, like 1984.
+37. A specific decade, like the 1920s.
+38. A specific century, like the 18th century.
+39. A specific era, like the Victorian era.
+40. A specific season, like harvest time.
+41. A specific holiday, like Christmas.
+42. A specific event, like a wedding.
+43. A specific time of life, like childhood.
+44. A specific time of day, like tea time.
+45. A specific moment in time, like a heartbeat.
+46. A timeless moment, eternal.
+47. A fleeting moment, temporary.
+48. A recurring moment, cyclical.
+49. A unique moment, one-of-a-kind.
+50. A common moment, everyday."
+12. Negative / --no,Excluded elements or artifacts.,"1. --no blur, out of focus, low quality
+2. --no text, watermark, signature
+3. --no deformed, mutated, extra limbs
+4. --no bad anatomy, ugly, disfigured
+5. --no jpeg artifacts, noise, grain
+6. --no cartoon, anime, 3d render
+7. --no cropped, cut off, missing head
+8. --no amateur, poorly lit, snapshot
+9. --no monochrome, black and white
+10. --no abstract, conceptual, surreal
+11. --no low resolution, pixelated.
+12. --no duplicate, multiple subjects.
+13. --no messy, cluttered background.
+14. --no harsh shadows, overexposed.
+15. --no unnatural colors, oversaturated.
+16. --no boring, mundane composition.
+17. --no common, cliché subjects.
+18. --no simple, lack of detail.
+19. --no ugly, unpleasant aesthetics.
+20. --no flawed, imperfect rendering.
+21. --no artificial, synthetic look.
+22. --no cold, unemotional mood.
+23. --no static, lack of movement.
+24. --no quiet, lack of energy.
+25. --no small, lack of scale.
+26. --no simple, lack of complexity.
+27. --no common, lack of uniqueness.
+28. --no familiar, lack of exoticism.
+29. --no clean, lack of texture.
+30. --no light, lack of contrast.
+31. --no warm, lack of coolness.
+32. --no cool, lack of warmth.
+33. --no natural, lack of artifice.
+34. --no human, lack of mechanics.
+35. --no mechanical, lack of humanity.
+36. --no emotional, lack of logic.
+37. --no logical, lack of emotion.
+38. --no temporary, lack of eternity.
+39. --no eternal, lack of temporality.
+40. --no cyclical, lack of uniqueness.
+41. --no unique, lack of recurrence.
+42. --no everyday, lack of rarity.
+43. --no rare, lack of commonality.
+44. --no simple, lack of sophistication.
+45. --no sophisticated, lack of simplicity.
+46. --no beautiful, lack of ugliness.
+47. --no ugly, lack of beauty.
+48. --no perfect, lack of imperfection.
+49. --no imperfect, lack of perfection.
+50. --no real, lack of fantasy."
+13. Details / Quality,Fine-grained descriptors for fidelity.,"1. Ultra-detailed skin pores and hair strands.
+2. Wet, reflective asphalt texture.
+3. Subtle film grain and light leaks.
+4. Sharp focus across the entire depth of field.
+5. High-frequency detail in the foreground.
+6. Worn leather texture with fine cracks.
+7. Hyper-realistic rendering, photorealistic.
+8. Dust motes floating in the light.
+9. Crisp, clean lines and edges.
+10. Rich texture of woven fabric.
+11. Specular highlights on metallic surfaces.
+12. Intricate patterns in nature.
+13. Fine details in architecture.
+14. Subtle variations in color and tone.
+15. Realistic reflections and refractions.
+16. Accurate shadows and highlights.
+17. High resolution and clarity.
+18. Clean and professional finish.
+19. Sophisticated and elegant look.
+20. Unique and interesting details.
+21. Common and familiar details.
+22. Rare and exotic details.
+23. Simple and clean details.
+24. Complex and intricate details.
+25. Beautiful and aesthetic details.
+26. Ugly and distorted details.
+27. Perfect and flawless details.
+28. Imperfect and flawed details.
+29. Natural and organic details.
+30. Artificial and synthetic details.
+31. Human and emotional details.
+32. Mechanical and cold details.
+33. Ancient and weathered details.
+34. Modern and sleek details.
+35. Rustic and natural details.
+36. Industrial and cold details.
+37. Magical and enchanting details.
+38. Terrifying and horrific details.
+39. Hopeful and bright details.
+40. Desperate and dark details.
+41. Calm and soothing details.
+42. Exciting and fast-paced details.
+43. Boring and mundane details.
+44. Interesting and unique details.
+45. Common and familiar details.
+46. Rare and exotic details.
+47. Simple and clean details.
+48. Complex and detailed details.
+49. Beautiful and elegant details.
+50. Ugly and distorted details."
+14. Audio Cue,Sound integration for video generation.,"1. Distant, echoing train whistle.
+2. Subtle electronic hum and low bass drone.
+3. Rhythmic sound of waves on a beach.
+4. Sudden, sharp crack of thunder.
+5. Muffled, indistinct chatter of a large crowd.
+6. Dramatic, swelling orchestral score.
+7. Crisp, clean sound of footsteps on gravel.
+8. Ambient, synthetic sounds of a futuristic city.
+9. Slow, mournful cello melody.
+10. Frantic, rapid heartbeat sound.
+11. Gentle rustling of leaves in the wind.
+12. Soft chirping of birds at dawn.
+13. Loud, energetic rock music.
+14. Quiet, peaceful silence.
+15. High-pitched, annoying buzz.
+16. Low-pitched, soothing rumble.
+17. Fast-paced, exciting beat.
+18. Slow-paced, relaxing melody.
+19. Harsh, industrial noise.
+20. Soft, natural sounds.
+21. Artificial, synthetic sounds.
+22. Human, emotional voices.
+23. Mechanical, cold sounds.
+24. Ancient, weathered sounds.
+25. Modern, sleek sounds.
+26. Rustic, natural sounds.
+27. Industrial, cold sounds.
+28. Magical, enchanting sounds.
+29. Terrifying, horrific sounds.
+30. Hopeful, bright sounds.
+31. Desperate, dark sounds.
+32. Calm, soothing sounds.
+33. Exciting, fast-paced sounds.
+34. Boring, mundane sounds.
+35. Interesting, unique sounds.
+36. Common, familiar sounds.
+37. Rare, exotic sounds.
+38. Simple, clean sounds.
+39. Complex, detailed sounds.
+40. Beautiful, elegant sounds.
+41. Ugly, distorted sounds.
+42. Perfect, flawless sounds.
+43. Imperfect, flawed sounds.
+44. Natural, organic sounds.
+45. Artificial, synthetic sounds.
+46. Human, emotional sounds.
+47. Mechanical, cold sounds.
+48. Ancient, weathered sounds.
+49. Modern, sleek sounds.
+50. Rustic, natural sounds."
+15. Duration / Parameters,Technical flags for software control.,"1. --ar 16:9 (Widescreen).
+2. --ar 3:2 (Standard photography).
+3. --stylize 1000 (Max stylization).
+4. --stylize 50 (Minimal stylization).
+5. 8-second duration (Video).
+6. 4-frame animation loop.
+7. --v 6.0 (Model version).
+8. --seed 42 (Reproducible).
+9. --quality 2 (High-quality).
+10. --chaos 80 (High variability).
+11. --ar 4:5 (Portrait).
+12. --ar 1:1 (Square).
+13. --ar 21:9 (Ultrawide).
+14. --stylize 250 (Default).
+15. --stylize 0 (No stylization).
+16. 15-second duration (Video).
+17. 30-second duration (Video).
+18. 60-second duration (Video).
+19. --v 5.2 (Previous version).
+20. --v 4 (Legacy version).
+21. --seed 12345 (Random).
+22. --quality 1 (Standard quality).
+23. --quality 0.5 (Low quality).
+24. --chaos 20 (Low variability).
+25. --chaos 50 (Medium variability).
+26. --no [negative prompt].
+27. --tile (Seamless pattern).
+28. --video (Save progress video).
+29. --stop 80 (Stop at 80%).
+30. --uplight (Alternative upscaler).
+31. --upbeta (Beta upscaler).
+32. --hd (High definition).
+33. --test (Test model).
+34. --testp (Test photography model).
+35. --creative (Creative mode).
+36. --aspect 16:9.
+37. --w 1024 --h 1024.
+38. --steps 50.
+39. --cfg_scale 7.5.
+40. --sampler euler_a.
+41. --negative_prompt [text].
+42. --batch_size 4.
+43. --num_images 1.
+44. --seed -1.
+45. --prompt_strength 0.8.
+46. --motion_strength 5.
+47. --fps 24.
+48. --resolution 1080p.
+49. --codec h264.
+50. --bitrate 10Mbps."
+16. Input / Reference,Visuals provided to guide the model.,"1. [Image URL] for character consistency.
+2. Style reference: [Image URL].
+3. Pose reference: [Image URL].
+4. Color palette from: [Image URL].
+5. Use as a depth map: [Image URL].
+6. Texture map from: [Image URL].
+7. Continuity reference: [Image URL].
+8. Image weight: [Image URL]::2.
+9. Character reference: [Image URL] --cref.
+10. Style reference: [Image URL] --sref.
+11. Reference image for lighting.
+12. Reference image for composition.
+13. Reference image for mood.
+14. Reference image for environment.
+15. Reference image for subject.
+16. Reference image for action.
+17. Reference image for style.
+18. Reference image for color.
+19. Reference image for texture.
+20. Reference image for detail.
+21. Reference image for quality.
+22. Reference image for parameters.
+23. Reference image for duration.
+24. Reference image for audio.
+25. Reference image for input.
+26. Reference image for output.
+27. Reference image for process.
+28. Reference image for result.
+29. Reference image for comparison.
+30. Reference image for inspiration.
+31. Reference image for guidance.
+32. Reference image for control.
+33. Reference image for variation.
+34. Reference image for consistency.
+35. Reference image for continuity.
+36. Reference image for character.
+37. Reference image for pose.
+38. Reference image for depth.
+39. Reference image for map.
+40. Reference image for weight.
+41. Reference image for strength.
+42. Reference image for scale.
+43. Reference image for size.
+44. Reference image for shape.
+45. Reference image for form.
+46. Reference image for space.
+47. Reference image for time.
+48. Reference image for motion.
+49. Reference image for sound.
+50. Reference image for light."
